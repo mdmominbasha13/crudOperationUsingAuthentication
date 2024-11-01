@@ -1,0 +1,8 @@
+version: 1.0.0
+seeddata: false
+Logging:
+    stdout: false
+    level: debug
+    path: applog.log
+server:
+    port: ':9004'
